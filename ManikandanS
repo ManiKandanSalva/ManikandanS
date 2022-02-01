@@ -1,0 +1,8 @@
+CREATE TABLE EMPLOYEE
+(   Personid int,
+    FirstName varchar(255),
+    LastName varchar(255).
+    salary int,
+    city varchar(255)    
+    );
+   
